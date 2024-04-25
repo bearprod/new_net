@@ -1,0 +1,62 @@
+[
+    {
+        "File": "training_data/soundcloud_caps/soundcloud_training_4.pcap",
+        "Total Packets": 1473,
+        "Bytes Outgoing": 1465406,
+        "Bytes Incoming": 109220,
+        "Mean Interpacket Time": 0.008336329483695653,
+        "Median Interpacket Time": 1.3e-05,
+        "Std Dev Interpacket Time": 0.05866380550612154,
+        "Mean Packet Size": 1068.9925322471147,
+        "Median Packet Size": 1490.0,
+        "Std Dev Packet Size": 599.1308577741362
+    },
+    {
+        "File": "training_data/soundcloud_caps/soundcloud_training_5.pcap",
+        "Total Packets": 749,
+        "Bytes Outgoing": 686882,
+        "Bytes Incoming": 56450,
+        "Mean Interpacket Time": 0.017606008021390375,
+        "Median Interpacket Time": 5.9e-05,
+        "Std Dev Interpacket Time": 0.10939128327133107,
+        "Mean Packet Size": 992.4325767690253,
+        "Median Packet Size": 1490.0,
+        "Std Dev Packet Size": 621.3879935366612
+    },
+    {
+        "File": "training_data/soundcloud_caps/soundcloud_training_2.pcap",
+        "Total Packets": 1081,
+        "Bytes Outgoing": 1126292,
+        "Bytes Incoming": 81462,
+        "Mean Interpacket Time": 0.010999828703703704,
+        "Median Interpacket Time": 1.1e-05,
+        "Std Dev Interpacket Time": 0.05244353984787151,
+        "Mean Packet Size": 1117.2562442183164,
+        "Median Packet Size": 1490.0,
+        "Std Dev Packet Size": 578.0280699088456
+    },
+    {
+        "File": "training_data/soundcloud_caps/soundcloud_training_3.pcap",
+        "Total Packets": 1990,
+        "Bytes Outgoing": 2125142,
+        "Bytes Incoming": 135536,
+        "Mean Interpacket Time": 0.007437008547008547,
+        "Median Interpacket Time": 1.1e-05,
+        "Std Dev Interpacket Time": 0.039040616939992515,
+        "Mean Packet Size": 1136.0190954773868,
+        "Median Packet Size": 1490.0,
+        "Std Dev Packet Size": 566.77905937669
+    },
+    {
+        "File": "training_data/soundcloud_caps/soundcloud_training_1.pcap",
+        "Total Packets": 1067,
+        "Bytes Outgoing": 1173442,
+        "Bytes Incoming": 78226,
+        "Mean Interpacket Time": 0.011969848030018763,
+        "Median Interpacket Time": 9e-06,
+        "Std Dev Interpacket Time": 0.0700752771899009,
+        "Mean Packet Size": 1173.0721649484535,
+        "Median Packet Size": 1490.0,
+        "Std Dev Packet Size": 549.8682107107423
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "File": "training_data/slitherio_caps/slitherio_training_2.pcap",
+        "Total Packets": 207,
+        "Bytes Outgoing": 55358,
+        "Bytes Incoming": 58366,
+        "Mean Interpacket Time": 0.04775218932038835,
+        "Median Interpacket Time": 0.0003985,
+        "Std Dev Interpacket Time": 0.13084977865041353,
+        "Mean Packet Size": 549.3913043478261,
+        "Median Packet Size": 602.0,
+        "Std Dev Packet Size": 534.3449432515404
+    },
+    {
+        "File": "training_data/slitherio_caps/slitherio_training_3.pcap",
+        "Total Packets": 217,
+        "Bytes Outgoing": 56090,
+        "Bytes Incoming": 58394,
+        "Mean Interpacket Time": 0.04903936111111111,
+        "Median Interpacket Time": 0.000564,
+        "Std Dev Interpacket Time": 0.23178936477094003,
+        "Mean Packet Size": 527.5760368663595,
+        "Median Packet Size": 602.0,
+        "Std Dev Packet Size": 490.75185896289565
+    },
+    {
+        "File": "training_data/slitherio_caps/slitherio_training_4.pcap",
+        "Total Packets": 203,
+        "Bytes Outgoing": 56468,
+        "Bytes Incoming": 55110,
+        "Mean Interpacket Time": 0.05258899009900989,
+        "Median Interpacket Time": 0.000195,
+        "Std Dev Interpacket Time": 0.16942048523983422,
+        "Mean Packet Size": 549.6453201970444,
+        "Median Packet Size": 602.0,
+        "Std Dev Packet Size": 508.0534399524892
+    },
+    {
+        "File": "training_data/slitherio_caps/slitherio_training_5.pcap",
+        "Total Packets": 207,
+        "Bytes Outgoing": 54766,
+        "Bytes Incoming": 54826,
+        "Mean Interpacket Time": 0.04317121844660194,
+        "Median Interpacket Time": 0.0004795,
+        "Std Dev Interpacket Time": 0.1169830731428587,
+        "Mean Packet Size": 529.4299516908212,
+        "Median Packet Size": 602.0,
+        "Std Dev Packet Size": 497.3867590601939
+    },
+    {
+        "File": "training_data/slitherio_caps/slitherio_training_1.pcap",
+        "Total Packets": 211,
+        "Bytes Outgoing": 55520,
+        "Bytes Incoming": 55318,
+        "Mean Interpacket Time": 0.05812995714285714,
+        "Median Interpacket Time": 0.0005870000000000001,
+        "Std Dev Interpacket Time": 0.39209765770885996,
+        "Mean Packet Size": 525.2985781990521,
+        "Median Packet Size": 602.0,
+        "Std Dev Packet Size": 499.1361266592181
+    }
+]

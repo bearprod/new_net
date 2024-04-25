@@ -1,0 +1,62 @@
+[
+    {
+        "File": "training_data/googlemaps_caps/googlemaps_training_2.pcap",
+        "Total Packets": 591,
+        "Bytes Outgoing": 483616,
+        "Bytes Incoming": 47106,
+        "Mean Interpacket Time": 0.021440354237288135,
+        "Median Interpacket Time": 9.449999999999999e-05,
+        "Std Dev Interpacket Time": 0.11183063127208706,
+        "Mean Packet Size": 898.0067681895093,
+        "Median Packet Size": 1288.0,
+        "Std Dev Packet Size": 636.8537087246094
+    },
+    {
+        "File": "training_data/googlemaps_caps/googlemaps_training_3.pcap",
+        "Total Packets": 655,
+        "Bytes Outgoing": 547630,
+        "Bytes Incoming": 50386,
+        "Mean Interpacket Time": 0.019755217125382262,
+        "Median Interpacket Time": 8.400000000000001e-05,
+        "Std Dev Interpacket Time": 0.1180789790489672,
+        "Mean Packet Size": 913.0015267175572,
+        "Median Packet Size": 1288.0,
+        "Std Dev Packet Size": 635.4235793457061
+    },
+    {
+        "File": "training_data/googlemaps_caps/googlemaps_training_4.pcap",
+        "Total Packets": 467,
+        "Bytes Outgoing": 416968,
+        "Bytes Incoming": 36320,
+        "Mean Interpacket Time": 0.025214392703862658,
+        "Median Interpacket Time": 5.6e-05,
+        "Std Dev Interpacket Time": 0.10782280742423488,
+        "Mean Packet Size": 970.6381156316917,
+        "Median Packet Size": 1490.0,
+        "Std Dev Packet Size": 622.1375699775778
+    },
+    {
+        "File": "training_data/googlemaps_caps/googlemaps_training_5.pcap",
+        "Total Packets": 500,
+        "Bytes Outgoing": 415046,
+        "Bytes Incoming": 35456,
+        "Mean Interpacket Time": 0.02380696392785571,
+        "Median Interpacket Time": 0.000141,
+        "Std Dev Interpacket Time": 0.11787437922939885,
+        "Mean Packet Size": 901.004,
+        "Median Packet Size": 1288.0,
+        "Std Dev Packet Size": 630.5783694228656
+    },
+    {
+        "File": "training_data/googlemaps_caps/googlemaps_training_1.pcap",
+        "Total Packets": 748,
+        "Bytes Outgoing": 636848,
+        "Bytes Incoming": 54416,
+        "Mean Interpacket Time": 0.01811411378848728,
+        "Median Interpacket Time": 8.3e-05,
+        "Std Dev Interpacket Time": 0.08914535697142442,
+        "Mean Packet Size": 924.1497326203208,
+        "Median Packet Size": 1288.0,
+        "Std Dev Packet Size": 633.0511456282279
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "File": "training_data/youtube_caps/youtube_training_1.pcap",
+        "Total Packets": 249,
+        "Bytes Outgoing": 0,
+        "Bytes Incoming": 195044,
+        "Mean Interpacket Time": 0.048941318548387104,
+        "Median Interpacket Time": 0.0001305,
+        "Std Dev Interpacket Time": 0.34798965474808713,
+        "Mean Packet Size": 783.3092369477912,
+        "Median Packet Size": 602.0,
+        "Std Dev Packet Size": 636.5931700952088
+    },
+    {
+        "File": "training_data/youtube_caps/youtube_training_5.pcap",
+        "Total Packets": 247,
+        "Bytes Outgoing": 0,
+        "Bytes Incoming": 193056,
+        "Mean Interpacket Time": 0.040413560975609754,
+        "Median Interpacket Time": 0.000116,
+        "Std Dev Interpacket Time": 0.22228608126181468,
+        "Mean Packet Size": 781.6032388663967,
+        "Median Packet Size": 602.0,
+        "Std Dev Packet Size": 638.7294229789195
+    },
+    {
+        "File": "training_data/youtube_caps/youtube_training_4.pcap",
+        "Total Packets": 225,
+        "Bytes Outgoing": 0,
+        "Bytes Incoming": 194580,
+        "Mean Interpacket Time": 0.037649799107142855,
+        "Median Interpacket Time": 4.9e-05,
+        "Std Dev Interpacket Time": 0.22244251517757707,
+        "Mean Packet Size": 864.8,
+        "Median Packet Size": 1164.0,
+        "Std Dev Packet Size": 640.368088593497
+    },
+    {
+        "File": "training_data/youtube_caps/youtube_training_3.pcap",
+        "Total Packets": 279,
+        "Bytes Outgoing": 0,
+        "Bytes Incoming": 222136,
+        "Mean Interpacket Time": 0.044117280575539576,
+        "Median Interpacket Time": 0.0001015,
+        "Std Dev Interpacket Time": 0.25863979592696923,
+        "Mean Packet Size": 796.1863799283154,
+        "Median Packet Size": 666.0,
+        "Std Dev Packet Size": 632.8220185786887
+    },
+    {
+        "File": "training_data/youtube_caps/youtube_training_2.pcap",
+        "Total Packets": 236,
+        "Bytes Outgoing": 0,
+        "Bytes Incoming": 186652,
+        "Mean Interpacket Time": 0.04372446808510638,
+        "Median Interpacket Time": 7.3e-05,
+        "Std Dev Interpacket Time": 0.19223775531528006,
+        "Mean Packet Size": 790.8983050847457,
+        "Median Packet Size": 763.0,
+        "Std Dev Packet Size": 645.7125139526826
+    }
+]

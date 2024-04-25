@@ -1,0 +1,74 @@
+[
+    {
+        "Site": "googlemaps_caps",
+        "Avg. Total Packets": 592.2,
+        "Avg. Bytes Outgoing": 500021.6,
+        "Avg. Bytes Incoming": 44736.8,
+        "Avg. Mean Interpacket Time": 0.021666208356575206,
+        "Avg. Median Interpacket Time": 9.17e-05,
+        "Avg. Std Dev Interpacket Time": 0.10895043078922248,
+        "Avg. Mean Packet Size": 921.3600286318158,
+        "Avg. Median Packet Size": 1328.4,
+        "Avg. Std Dev Packet Size": 631.6088746197973
+    },
+    {
+        "Site": "lynkapp_caps",
+        "Avg. Total Packets": 18.4,
+        "Avg. Bytes Outgoing": 0.0,
+        "Avg. Bytes Incoming": 7674.4,
+        "Avg. Mean Interpacket Time": 0.5573775258060201,
+        "Avg. Median Interpacket Time": 0.1055132,
+        "Avg. Std Dev Interpacket Time": 1.0933139414588608,
+        "Avg. Mean Packet Size": 392.8,
+        "Avg. Median Packet Size": 387.6,
+        "Avg. Std Dev Packet Size": 329.56324199887877
+    },
+    {
+        "Site": "reddit_caps",
+        "Avg. Total Packets": 1380.4,
+        "Avg. Bytes Outgoing": 0.0,
+        "Avg. Bytes Incoming": 1587222.4,
+        "Avg. Mean Interpacket Time": 0.010627014044761537,
+        "Avg. Median Interpacket Time": 1.06e-05,
+        "Avg. Std Dev Interpacket Time": 0.07589730029402156,
+        "Avg. Mean Packet Size": 1144.5821557375195,
+        "Avg. Median Packet Size": 1490.0,
+        "Avg. Std Dev Packet Size": 567.3749701429693
+    },
+    {
+        "Site": "slitherio_caps",
+        "Avg. Total Packets": 209.0,
+        "Avg. Bytes Outgoing": 55640.4,
+        "Avg. Bytes Incoming": 56402.8,
+        "Avg. Mean Interpacket Time": 0.050136343223993685,
+        "Avg. Median Interpacket Time": 0.0004448000000000001,
+        "Avg. Std Dev Interpacket Time": 0.2082280719025813,
+        "Avg. Mean Packet Size": 536.2682382602206,
+        "Avg. Median Packet Size": 602.0,
+        "Avg. Std Dev Packet Size": 505.9346255772675
+    },
+    {
+        "Site": "soundcloud_caps",
+        "Avg. Total Packets": 1272.0,
+        "Avg. Bytes Outgoing": 1315432.8,
+        "Avg. Bytes Incoming": 92178.8,
+        "Avg. Mean Interpacket Time": 0.011269804557163409,
+        "Avg. Median Interpacket Time": 2.06e-05,
+        "Avg. Std Dev Interpacket Time": 0.06592290455104352,
+        "Avg. Mean Packet Size": 1097.5545227320595,
+        "Avg. Median Packet Size": 1490.0,
+        "Avg. Std Dev Packet Size": 583.0388382614151
+    },
+    {
+        "Site": "youtube_caps",
+        "Avg. Total Packets": 247.2,
+        "Avg. Bytes Outgoing": 0.0,
+        "Avg. Bytes Incoming": 198293.6,
+        "Avg. Mean Interpacket Time": 0.04296928545835713,
+        "Avg. Median Interpacket Time": 9.4e-05,
+        "Avg. Std Dev Interpacket Time": 0.24871916048594564,
+        "Avg. Mean Packet Size": 803.3594321654498,
+        "Avg. Median Packet Size": 759.4,
+        "Avg. Std Dev Packet Size": 638.8450428397992
+    }
+]

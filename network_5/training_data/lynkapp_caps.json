@@ -1,0 +1,62 @@
+[
+    {
+        "File": "training_data/lynkapp_caps/lynkapp_training_2.pcap",
+        "Total Packets": 14,
+        "Bytes Outgoing": 0,
+        "Bytes Incoming": 4676,
+        "Mean Interpacket Time": 0.7406405384615383,
+        "Median Interpacket Time": 0.104045,
+        "Std Dev Interpacket Time": 1.2064323645057844,
+        "Mean Packet Size": 334.0,
+        "Median Packet Size": 334.0,
+        "Std Dev Packet Size": 268.0
+    },
+    {
+        "File": "training_data/lynkapp_caps/lynkapp_training_3.pcap",
+        "Total Packets": 26,
+        "Bytes Outgoing": 0,
+        "Bytes Incoming": 16328,
+        "Mean Interpacket Time": 0.34935992000000005,
+        "Median Interpacket Time": 0.000388,
+        "Std Dev Interpacket Time": 1.105030697314384,
+        "Mean Packet Size": 628.0,
+        "Median Packet Size": 602.0,
+        "Std Dev Packet Size": 575.8162099943937
+    },
+    {
+        "File": "training_data/lynkapp_caps/lynkapp_training_4.pcap",
+        "Total Packets": 14,
+        "Bytes Outgoing": 0,
+        "Bytes Incoming": 4676,
+        "Mean Interpacket Time": 0.6328136923076924,
+        "Median Interpacket Time": 0.126413,
+        "Std Dev Interpacket Time": 1.1578005766832469,
+        "Mean Packet Size": 334.0,
+        "Median Packet Size": 334.0,
+        "Std Dev Packet Size": 268.0
+    },
+    {
+        "File": "training_data/lynkapp_caps/lynkapp_training_5.pcap",
+        "Total Packets": 24,
+        "Bytes Outgoing": 0,
+        "Bytes Incoming": 8016,
+        "Mean Interpacket Time": 0.5713974782608695,
+        "Median Interpacket Time": 0.197595,
+        "Std Dev Interpacket Time": 1.1535854016988067,
+        "Mean Packet Size": 334.0,
+        "Median Packet Size": 334.0,
+        "Std Dev Packet Size": 268.0
+    },
+    {
+        "File": "training_data/lynkapp_caps/lynkapp_training_1.pcap",
+        "Total Packets": 14,
+        "Bytes Outgoing": 0,
+        "Bytes Incoming": 4676,
+        "Mean Interpacket Time": 0.492676,
+        "Median Interpacket Time": 0.099125,
+        "Std Dev Interpacket Time": 0.8437206670920819,
+        "Mean Packet Size": 334.0,
+        "Median Packet Size": 334.0,
+        "Std Dev Packet Size": 268.0
+    }
+]
